@@ -397,7 +397,7 @@ div .bg-gray {
     grid-template-columns: repeat(3, 356px);
     gap: 40px;
     padding-top: 20px;
-    margin-bottom: 60px;
+    padding-bottom: 60px;
 }
 
 .social {
